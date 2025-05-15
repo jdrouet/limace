@@ -1,0 +1,10 @@
+[package]
+name = "limace"
+description = "Slugify some strings"
+author = ["Jeremie Drouet <jeremie.drouet@gmail.com>"]
+license = "MIT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+deunicode = "1.6"
