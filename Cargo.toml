@@ -2,6 +2,7 @@
 name = "limace"
 description = "Slugify some strings"
 author = ["Jeremie Drouet <jeremie.drouet@gmail.com>"]
+repository = "https://github.com/jdrouet/limace"
 readme = "readme.md"
 license = "MIT"
 version = "0.1.1"
